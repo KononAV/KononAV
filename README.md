@@ -6,9 +6,8 @@ Hi, I’m KononAV — a junior Unity developer focused on creating engaging game
 
 I’m currently developing a mobile game - a home decoration and customization simulator where players can complete various mini-games and improve their space. <img src="https://github.com/user-attachments/assets/7831f2bc-c1e7-4327-b257-7afa5bde7f64" width="16" alt="SponsorTiersIcon"/>
 
-
-
-
 **Game Engines:** Unity · UE5 · PixiJS  
 **3D/Animation:** Blender · Spine · MagicaVoxel  
 **2D/Pixel Art:** Aseprite · Photoshop
+
+<img src="https://github.com/user-attachments/assets/a35cedb0-af76-409a-8b71-5f691f774cb4" width="16" alt="SponsorTiersIcon"/>Repos with pet-projects <img src="https://github.com/user-attachments/assets/a35cedb0-af76-409a-8b71-5f691f774cb4" width="16" alt="SponsorTiersIcon"/>
