@@ -4,7 +4,8 @@
 
 Hi, I’m KononAV — a junior Unity developer focused on creating engaging gameplay and visuals. <img src="https://img.icons8.com/ios-filled/50/000000/code" width="16"/>
 
-I’m currently developing a mobile game - a home decoration and customization simulator where players can complete various mini-games and improve their space.
+I’m currently developing a mobile game - a home decoration and customization simulator where players can complete various mini-games and improve their space. <img src="https://github.githubassets.com/images/icons/octicons/sponsor-tiers-16.svg" width="16" alt="SponsorTiersIcon" />
+
 
 
 
