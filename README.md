@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/06a72d03-c670-4a96-b550-fd1c05119b14" width="300"/>
 
-Hi, I’m KononAV — a junior Unity developer focused on creating engaging gameplay and visuals. <img src="https://img.icons8.com/ios-filled/50/000000/code" width="16"/>
+Hi, I’m KononAV — a junior Unity developer focused on creating engaging gameplay and visuals. <img src="https://github.com/user-attachments/assets/9b6afbbb-4d64-4125-aca6-21aad74b560e" width="16"/>
 
 I’m currently developing a mobile game - a home decoration and customization simulator where players can complete mini-games and improve their house. <img src="https://github.com/user-attachments/assets/7831f2bc-c1e7-4327-b257-7afa5bde7f64" width="16" alt="SponsorTiersIcon"/>
 
