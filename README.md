@@ -11,7 +11,7 @@ I’m currently developing a mobile game - a home decoration and customization s
 <strong>Game Engines:</strong> Unity · UE5 · PixiJS<br/>
 <strong>3D/Animation:</strong> Blender · Spine · MagicaVoxel<br/>
 <strong>2D/Pixel Art:</strong> Aseprite · Photoshop<br/>
-<img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/> Languages:</strong> C#, C++, Python, JavaScript<br/>
+<img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/><strong>Languages:</strong> C#, C++, Python, JavaScript<br/>
 
 
 <img src="https://github.com/user-attachments/assets/cde343c4-ff17-446d-8e84-5b5a87df6519" width="16" alt="SponsorTiersIcon"/> Repos with pet-projects <img src="https://github.com/user-attachments/assets/cde343c4-ff17-446d-8e84-5b5a87df6519" width="16" alt="SponsorTiersIcon"/>
