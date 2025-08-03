@@ -9,5 +9,6 @@ I’m currently developing a mobile game - a home decoration and customization s
 **Game Engines:** Unity · UE5 · PixiJS  
 **3D/Animation:** Blender · Spine · MagicaVoxel  
 **2D/Pixel Art:** Aseprite · Photoshop
+**Languages:** C#, C++, Python, JavaScript
 
 <img src="https://github.com/user-attachments/assets/cde343c4-ff17-446d-8e84-5b5a87df6519" width="16" alt="SponsorTiersIcon"/> Repos with pet-projects <img src="https://github.com/user-attachments/assets/cde343c4-ff17-446d-8e84-5b5a87df6519" width="16" alt="SponsorTiersIcon"/>
