@@ -1,1 +1,2 @@
-![CatAnimTest-SampleScene-WindowsMacLinux-Unity66000 0 41f1__DX11_2025-08-0314-35-09online-video-cutter com2-ezgif com-gif-maker](https://github.com/user-attachments/assets/06a72d03-c670-4a96-b550-fd1c05119b14)
+<img src="https://github.com/user-attachments/assets/06a72d03-c670-4a96-b550-fd1c05119b14" width="300"/>
+
