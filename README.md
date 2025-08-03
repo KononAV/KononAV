@@ -7,10 +7,10 @@ Hi, I’m KononAV — a junior Unity developer focused on creating engaging game
 I’m currently developing a mobile game - a home decoration and customization simulator where players can complete mini-games and improve their house. <img src="https://github.com/user-attachments/assets/7831f2bc-c1e7-4327-b257-7afa5bde7f64" width="16" alt="SponsorTiersIcon"/>
 
 ##
-<img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/> 
+
 <strong>Game Engines:</strong> Unity · UE5 · PixiJS<br/>
-<img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/> <strong>3D/Animation:</strong> Blender · Spine · MagicaVoxel<br/>
-<img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/> <strong>2D/Pixel Art:</strong> Aseprite · Photoshop<br/>
+<strong>3D/Animation:</strong> Blender · Spine · MagicaVoxel<br/>
+<strong>2D/Pixel Art:</strong> Aseprite · Photoshop<br/>
 <img src="https://github.com/user-attachments/assets/6299b61b-a172-4a98-8cfd-b2f18949822a" width="16" alt="SponsorTiersIcon"/><strong> Languages:</strong> C#, C++, Python, JavaScript<br/>
 
 
