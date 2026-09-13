@@ -3,7 +3,6 @@
 <img src="https://github.com/user-attachments/assets/06a72d03-c670-4a96-b550-fd1c05119b14" width="300"/>
 
 Hi, I’m KononAV - a junior Unity developer focused on creating engaging gameplay and visuals. <img src="https://github.com/user-attachments/assets/9b6afbbb-4d64-4125-aca6-21aad74b560e" width="16"/>
-
 <img src="https://github.com/user-attachments/assets/7831f2bc-c1e7-4327-b257-7afa5bde7f64" width="16" alt="SponsorTiersIcon"/>
 
 ##
